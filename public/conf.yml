@@ -1,11 +1,11 @@
 ---
 # Page meta info, like heading, footer text and nav links
 pageInfo:
-  title: Dashy
-  description: Welcome to your new dashboard!
+  title: mingzailao
+  description: Welcome to mingzailao's HomePage!
   navLinks:
   - title: GitHub
-    path: https://github.com/Lissy93/dashy
+    path: https://github.com/mingzailao/dashy
   - title: Documentation
     path: https://dashy.to/docs
 
