@@ -31,22 +31,24 @@ sections:
         description: Git
         icon: far fa-book
         url: https://git.mingzailao.live
-        id: 2_1481_docs
+        id: 2_1481_git
       - title: clash
         description: Clash
         url: https://yacd.metacubex.one/#/proxies
         icon: far fa-grin-hearts
-        id: 3_1481_showcase
-      - title: Config Guide
-        description: See full list of configuration options
-        url: https://github.com/Lissy93/dashy/blob/master/docs/configuring.md
+        id: 3_1481_clash
+      - title: Overleaf
+        description: Latex Online
         icon: fas fa-wrench
-        id: 4_1481_configguide
-      - title: Support
-        description: Get help with Dashy, raise a bug, or get in contact
-        url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
+        url: https://overleaf.com
+        target: sametab
+        id: 4_1481_overleaf
+      - title: ChatGPT
+        description: ChatGPT
         icon: far fa-hands-helping
-        id: 5_1481_support
+        url: https://chat.mingzailao.live
+        target: newtab
+        id: 5_1481_chatgpt
     displayData:
       sortBy: most-used
       rows: 2
